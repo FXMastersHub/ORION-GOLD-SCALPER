@@ -8,7 +8,9 @@
 <hr>
 <br>
 
-Titany X Pro (sometimes called Titany X Pro(P)) is an AI-powered Expert Advisor (EA) for MetaTrader 4. It automates forex trades on a 15‑minute chart, aiming to generate passive income even when you’re not watching the screen
+Orion Gold Scalper EA is a fully automated trading robot designed for fast scalping on XAU/USD (Gold) using the MetaTrader 4 (MT4) platform. Perfect for traders who want to grow small accounts quickly, this EA uses advanced AI technology, smart trailing stops, and real-time market analysis to place precise trades on low timeframes (M1 & M5).
+
+With features like news filtering, customizable lot size, and risk control settings, it offers both speed and flexibility. Whether you're a beginner or experienced trader, Orion Gold Scalper is built to help you catch quick profits and manage risk effectively.
 
 ## 💱 Currency Pair / Timeframe / Platform
 
